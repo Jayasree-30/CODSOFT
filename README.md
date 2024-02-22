@@ -1,2 +1,4 @@
 # CODSOFT
--Building a calculator
+- Building a calculator
+- Password Generator
+- Contact Book
